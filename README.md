@@ -1,5 +1,8 @@
 ## Hi I'm Eliyana 👋
 
+ 💻 Skills
+
+[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,java,cpp,react,py,)](https://skillicons.dev)
 <!--
 **eliyanaaa/eliyanaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
