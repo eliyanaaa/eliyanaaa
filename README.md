@@ -1,19 +1,12 @@
 ## Hi I'm Eliyana 👋
 
- 💻 Skills
+<h2>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35"/>
+  &nbsp;About Me
+</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,java,cpp,react,py,)](https://skillicons.dev)
-<!--
-**eliyanaaa/eliyanaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,nginx,js,html,css,java,c,cpp,react,alpinejs,py)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+#### Tools & Infrastructure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
