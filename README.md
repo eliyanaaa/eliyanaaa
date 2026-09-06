@@ -3,7 +3,7 @@
 </h1>
 
 </h1><p align="center">
-  <em>Final-Year Computer Science Student & Web Developer</em>
+  <em>Fresh Graduates of Computer Science Student & Web Developer</em>
 </p>
 
 <p align="center">
