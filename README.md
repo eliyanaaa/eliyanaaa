@@ -7,13 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge" />
+  <a href="https://www.eliyana-nazira.my/" target="_blank">
+    <img src="https://img.shields.io/badge/Eliyana_Nazira_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
