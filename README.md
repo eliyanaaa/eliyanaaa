@@ -3,7 +3,7 @@
 </h1>
 
 </h1><p align="center">
-  <em>Fresh Graduates of Computer Science Student & Web Developer</em>
+  <em>Fresh Graduates of Computer Science Student & Software Developer</em>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ---
 ### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30" style="vertical-align: middle;" /> About Me
-I am a Computer Science student passionate about building clean, efficient web applications and data-driven systems. I enjoy solving problems across the full stack—from architecting database schemas and designing backend logic to crafting interactive user interfaces.
+I am a Computer Science student passionate about building clean, efficient web applications and data-driven systems. I enjoy solving problems across the full stack from architecting database schemas and designing backend logic to crafting interactive user interfaces.
 
 * **Currently focusing on:** Full-stack development with Laravel, PHP, and modern frontend tools.
 * **Interests:** Web architecture, dashboard analytics, and clean UI/UX.
